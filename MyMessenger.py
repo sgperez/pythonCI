@@ -7,4 +7,4 @@ class MyMessenger:
         
 
     def get_message(self):
-        return self.message + 'break test'
+        return self.message
